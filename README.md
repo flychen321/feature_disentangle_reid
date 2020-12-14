@@ -42,5 +42,12 @@ This code is related to our paper _A Feature Disentangling Approach for Person R
 If you use this code, please cite our paper as:
 
 ```
-
+@article{chen2020feature,
+  title={A feature disentangling approach for person re-identification via self-supervised data augmentation},
+  author={Chen, Feng and Wang, Nian and Tang, Jun and Zhu, Fan},
+  journal={Applied Soft Computing},
+  pages={106939},
+  year={2020},
+  publisher={Elsevier}
+}
 ```
